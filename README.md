@@ -1,6 +1,6 @@
 # scu-marketplace-contract
 
-NFTSwqp address:
+NFTSwap address:
 0xECdeAaD85A695CEb83d5d9e00c0D3160220773A7
 
 ERC721 address:
